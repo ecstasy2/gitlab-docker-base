@@ -1,4 +1,4 @@
-FROM docker:latest
+FROM docker:1.11.1
 
 RUN apk add --update \
 		bash \
